@@ -1,2 +1,3 @@
 # Code
-Code and Projects
+DSA Code
+Web Projects
